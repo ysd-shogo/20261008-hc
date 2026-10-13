@@ -166,6 +166,6 @@ particlesJS('particles-js',
       }
     },
     //Retina Display対応
-    "retina_detect": true, //true:有効, false:無効
+    "retina_detect": false, //true:有効, false:無効
   }
 );
